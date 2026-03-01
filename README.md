@@ -242,7 +242,6 @@ Do the same for:
 ```
 k3d-spoke2-cluster
 ```
-```
 
 After updating kubeconfig, run the commands again:
 
